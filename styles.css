@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap');
+
+body{
+    height: 100%;
+    width: 100%;
+}
+.heading{
+    margin: 1rem 0;
+    text-align: center;
+    font-family: "Playwrite MX", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
