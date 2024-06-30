@@ -12,3 +12,11 @@ body{
     font-weight: 600;
     font-style: normal;
 }
+.audio-player {
+    width: 300px;
+
+    margin-left: 40%;
+    margin-right: 30%;
+    
+    display: flex;
+}
